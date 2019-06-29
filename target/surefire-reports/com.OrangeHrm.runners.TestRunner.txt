@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.OrangeHrm.runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.384 s <<< FAILURE! - in com.OrangeHrm.runners.TestRunner
+Add Employee labels Verification(Add Employee)  Time elapsed: 21.933 s  <<< FAILURE!
+java.lang.AssertionError
+

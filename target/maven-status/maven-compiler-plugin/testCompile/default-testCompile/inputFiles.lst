@@ -1,0 +1,17 @@
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/steps/AddEmployeeSteps.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/pages/AddLocationPage.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/utils/Constants.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/steps/Hooks.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/pages/LoginPage.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/utils/ConfigsReader.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/utils/BaseClass.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/pages/LoginPageWithoutPageFactory.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/steps/AddLocationSteps.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/runners/TestRunner.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/pages/HomePage.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/utils/CommonMethods.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/steps/GoogleSearchSteps.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/utils/ExcelUtility.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/pages/LocationPage.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/pages/AddEmployeePage.java
+/Users/gamzeozer/eclipse-workspace/CucumberFramework/src/test/java/com/OrangeHrm/steps/LoginSteps.java
